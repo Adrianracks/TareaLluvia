@@ -1,0 +1,24 @@
+body, html{
+    height: 95%;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: purple;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 12px;
+}
+p{
+    padding-right: 30%;
+    color: rgb(12, 196, 224);
+}
+h4{
+    margin-top: 10px;
+    margin-left: 115px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-top: 10px;
+}
+body{
+    background-image:linear-gradient(rgb(0,0,0,0.1), rgb(0,0,0,0.5)), url("img/raindrops-violet-tile.jpg");
+}
